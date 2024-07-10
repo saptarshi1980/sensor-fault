@@ -18,5 +18,10 @@ PyYAML
 numpy
 scikit-learn
 apache-airflow
+pandas
+matplotlib
+ipykernel
+seaborn
+catboost
 
--e .
+#-e .
